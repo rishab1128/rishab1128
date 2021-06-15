@@ -19,6 +19,10 @@ Sophomore @ Dept. of Information Technology, IIEST, Shibpur
                                                                                                     
 </p> 
 
-<hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishab1128&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="rishab1128" />
+---
+
+|<img src="https://github-readme-stats.vercel.app/api?username=rishab1128&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="rishab1128" width="420"> |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishab1128&theme=react&hide_border=true)](https://git.io/streak-stats)
+|---|---|
+ 
+ ---
