@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Rishab 👋</h1>
 
-Sophomore @ Dept. of Information Technology, IIEST, Shibpur
+Junior @ Dept. of Information Technology, IIEST, Shibpur
 <br>
 <p align="left" style="margin-top:20px;">
 
@@ -8,7 +8,7 @@ Sophomore @ Dept. of Information Technology, IIEST, Shibpur
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 
-<a href="https://drive.google.com/file/d/1fb1RFPxiZM6jQ8bxcXqjBLtqFY-uCCdj/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1u5Oj0uur0i7U5xgaK4H635afIQClRzkK/view?usp=sharing">
 <img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white">
 </img>
 </a>
