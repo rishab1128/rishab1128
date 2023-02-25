@@ -8,7 +8,7 @@ Senior @ Dept. of Information Technology, IIEST, Shibpur
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
 
-<a href="https://drive.google.com/file/d/1O7OW7SuB3ZFSeb8wg8Amo3o8eWQaToS4/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1KCEC4biV5FGUkOOzCu4nIOLnnpugtC5-/view?usp=sharing">
 <img src="https://img.shields.io/badge/resume-pdf-%23181717.svg?&style=for-the-badge&logoColor=white">
 </img>
 </a>
