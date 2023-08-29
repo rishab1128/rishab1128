@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Rishab 👋</h1>
 
-Senior @ Dept. of Information Technology, IIEST, Shibpur
+Program Associate @ Wells Fargo, Hyd
 <br>
 <p align="left" style="margin-top:20px;">
 
