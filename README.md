@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Rishab 👋</h1>
 
-Program Associate @ Wells Fargo, Hyd
+Engineering @Demandbase, Hyd
 <br>
 <p align="left" style="margin-top:20px;">
 
